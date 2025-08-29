@@ -1,0 +1,161 @@
+{
+  "seasons": [
+    {
+      "year": 2021,
+      "races": [
+        {
+          "round": 1,
+          "name": "Bahrain GP",
+          "circuit": "Sakhir",
+          "results": [
+            {"driver_code": "HAM", "team": "MER", "position": 1, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "VER", "team": "RBR", "position": 2, "got_pole": false, "got_fastest_lap": true},
+            {"driver_code": "BOT", "team": "MER", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "PER", "team": "RBR", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 4, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 8, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 17, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 10, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": null, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 15, "got_pole": false, "got_fastest_lap": false}
+          ]
+        },
+        {
+          "round": 2,
+          "name": "Emilia Romagna GP",
+          "circuit": "Imola",
+          "results": [
+            {"driver_code": "VER", "team": "RBR", "position": 1, "got_pole": false, "got_fastest_lap": true},
+            {"driver_code": "HAM", "team": "MER", "position": 2, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": 4, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 8, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "BOT", "team": "MER", "position": 12, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "PER", "team": "RBR", "position": 11, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 15, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": 10, "got_pole": false, "got_fastest_lap": false}
+          ]
+        },
+        {
+          "round": 3,
+          "name": "Portuguese GP",
+          "circuit": "Portimao",
+          "results": [
+            {"driver_code": "HAM", "team": "MER", "position": 1, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "VER", "team": "RBR", "position": 2, "got_pole": false, "got_fastest_lap": true},
+            {"driver_code": "BOT", "team": "MER", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "PER", "team": "RBR", "position": 4, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 11, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 9, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 10, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 13, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": 8, "got_pole": false, "got_fastest_lap": false}
+          ]
+        },
+        {
+          "round": 4,
+          "name": "Spanish GP",
+          "circuit": "Barcelona",
+          "results": [
+            {"driver_code": "HAM", "team": "MER", "position": 1, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "VER", "team": "RBR", "position": 2, "got_pole": false, "got_fastest_lap": true},
+            {"driver_code": "BOT", "team": "MER", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": 4, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 8, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "PER", "team": "RBR", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 9, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 10, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 13, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": 17, "got_pole": false, "got_fastest_lap": false}
+          ]
+        },
+        {
+          "round": 5,
+          "name": "Monaco GP",
+          "circuit": "Monte Carlo",
+          "results": [
+            {"driver_code": "VER", "team": "RBR", "position": 1, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 2, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "PER", "team": "RBR", "position": 4, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "HAM", "team": "MER", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 8, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": null, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "BOT", "team": "MER", "position": null, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 12, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": 17, "got_pole": false, "got_fastest_lap": false}
+          ]
+        },
+        {
+          "round": 6,
+          "name": "Azerbaijan GP",
+          "circuit": "Baku",
+          "results": [
+            {"driver_code": "PER", "team": "RBR", "position": 1, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 2, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": 4, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 8, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 9, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VER", "team": "RBR", "position": null, "got_pole": false, "got_fastest_lap": true},
+            {"driver_code": "HAM", "team": "MER", "position": 15, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "BOT", "team": "MER", "position": 12, "got_pole": false, "got_fastest_lap": false}
+          ]
+        },
+        {
+          "round": 7,
+          "name": "French GP",
+          "circuit": "Le Castellet",
+          "results": [
+            {"driver_code": "VER", "team": "RBR", "position": 1, "got_pole": false, "got_fastest_lap": true},
+            {"driver_code": "HAM", "team": "MER", "position": 2, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "PER", "team": "RBR", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "BOT", "team": "MER", "position": 4, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 11, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": 16, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": 8, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 10, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 9, "got_pole": false, "got_fastest_lap": false}
+          ]
+        },
+        {
+          "round": 8,
+          "name": "Styrian GP",
+          "circuit": "Spielberg",
+          "results": [
+            {"driver_code": "VER", "team": "RBR", "position": 1, "got_pole": true, "got_fastest_lap": false},
+            {"driver_code": "HAM", "team": "MER", "position": 2, "got_pole": false, "got_fastest_lap": true},
+            {"driver_code": "BOT", "team": "MER", "position": 3, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "PER", "team": "RBR", "position": 4, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "NOR", "team": "MCL", "position": 5, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "SAI", "team": "FER", "position": 6, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "LEC", "team": "FER", "position": 7, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "RIC", "team": "MCL", "position": 13, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "GAS", "team": "ALP", "position": 9, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "ALO", "team": "ALP", "position": 10, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "STR", "team": "AST", "position": 8, "got_pole": false, "got_fastest_lap": false},
+            {"driver_code": "VET", "team": "AST", "position": 12, "got_pole": false, "got_fastest_lap": false}
+          ]
+        }
+      ]
+    }
+  ]
+}
